@@ -73,6 +73,7 @@ Because selection sort is not very efficient it's good for small data sizes, and
 ## Edge Cases and Concerns
 
 As mentioned above, the algorithm is not very efficient so the edge cases and concerns would be for large data inputs.
+Other sorting algorithms such as quick-sort and merge-sort have a time complexity of O(n\*log(n)) which are way more efficient.
 
 ## Citations
 
